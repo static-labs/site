@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#39;static labs</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on &#39;static labs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What We Do</title>
+      <link>http://localhost:1313/posts/what-we-do/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/what-we-do/</guid>
+      <description>&lt;h2 id=&#34;our-focus&#34;&gt;Our Focus&lt;/h2&gt;&#xA;&lt;p&gt;At &amp;lsquo;static labs, we build software. Our projects vary, but they share common threads: they&amp;rsquo;re often complex, they need to work reliably, and they&amp;rsquo;re important to the people who use them.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h3&gt;&#xA;&lt;p&gt;We believe in understanding problems deeply before trying to solve them. This means we spend time learning about the specific challenges our clients face. We don&amp;rsquo;t use a one-size-fits-all approach.&lt;/p&gt;&#xA;&lt;h3 id=&#34;types-of-work&#34;&gt;Types of Work&lt;/h3&gt;&#xA;&lt;p&gt;While we can&amp;rsquo;t share specifics about most of our projects, they often involve:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
