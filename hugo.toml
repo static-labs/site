@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://staticlabs.de'
 languageCode = 'en-us'
 title = "'static labs"
 theme = "paper"
