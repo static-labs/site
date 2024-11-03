@@ -1,16 +1,23 @@
-# Impressum
-static labs UG (haftungsbeschränkt)
-Frankenbergstr. 7
-12589 Berlin
-Handelsregister: HRB 268387 B
-Registergericht: Amtsgericht Charlottenburg Berlin
++++
+title = "Impressum"
+date = "2024-01-15"
+author = "'static labs"
+description = "Our impressum"
++++
+
+static labs UG (haftungsbeschränkt)  
+Frankenbergstr. 7  
+12589 Berlin  
+Handelsregister: HRB 268387 B  
+Registergericht: Amtsgericht Charlottenburg Berlin  
 
 ## Vertreten durch:
-Ole Mohan Gautam
-Raphael Boekhoff
-Kontakt
-Telefon: Anfrage an verwaltung@staticlabs.de senden
-E-Mail: verwaltung@staticlabs.de
+- Ole Mohan Gautam
+- Raphael Boekhoff
+
+## Kontakt
+- Telefon: Anfrage an verwaltung@staticlabs.de senden
+- E-Mail: verwaltung@staticlabs.de
 
 ## EU-Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
