@@ -59,8 +59,8 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://staticlabs.de/"
-            -v
+            --baseURL "https://staticlabs.de/" \
+            --verbose
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
