@@ -1,5 +1,5 @@
 ---
-title: 'static labs
+title: \'static labs
 subtitle: Softwarenetiwcklung
 author: Mohan Gautam und Raphael Boekhoff
 author-url: "https://staticlabs.de"
