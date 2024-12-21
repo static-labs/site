@@ -1,12 +1,12 @@
 ---
-title: static labs
+title: 'static labs
 subtitle: Softwarenetiwcklung
 author: Mohan Gautam und Raphael Boekhoff
 author-url: "https://staticlabs.de"
 date: 2024-12-21
 lang: de
 toc-title: Inhaltsverzeichnis
-version: v1.0.1
+version: v1.0.2
 ---
 
 ## Was wir machen
@@ -17,18 +17,17 @@ Bei 'static labs entwickeln wir Software. Unsere Projekte sind vielfältig, habe
 
 ### Philosophie
 
-Auch wenn wir keine Details zu den meisten unserer Projekte preisgeben können, haben häufig einige gemeinsame Merkmale:
+Auch wenn wir keine Details zu den meisten unserer Projekte preisgeben können, gibt es einige Merkmale, die such durch all unsere Arbeit ziehen:
 
 * Software ist für uns ein Werkzeug, um Probleme zu lösen. Kein Selbstzweck.
-* Wir arbeiten in kleinen Teams, die in der Regel aus 2-4 Personen bestehen
-* Wir haben ein Interesse an neuartigen Ansätzen, die neue Technologien nutzen, um bestehende Probleme besser zu lösen
+* Wir haben ein Interesse an neuartigen Ansätzen, die neue Technologien nutzen, um bestehende Probleme besser zu lösen.
 * Wir haben den Anspruch an uns, keine Angst vor Richtungswechseln zu haben. Falls wir feststellen, dass wir uns auf dem falschen Weg befinden, ändern wir unsere Strategie.
 
 
 ## Offene Stellen
 
 <details>
-<summary>Werkstudi UI/UX Developer (React) 20€/h</summary>
+<summary>Werkstudent:in UI/UX Developer (React) 20€/h</summary>
 <p>
 Wir suchen jemanden, der/die uns hilft, eine gute und intuitive UX zu entwickeln. Wir müssen einen halbwegs komplexen Ablauf auf verständliche Weise herunterbrechen und für Nutzer intuitiv gestalten.
 
@@ -56,7 +55,6 @@ Registergericht: Amtsgericht Charlottenburg Berlin
 
 #### Kontakt
 
-* Telefon: Anfrage an verwaltung@staticlabs.de senden
 * E-Mail: verwaltung@staticlabs.de
 
 #### EU-Streitschlichtung
