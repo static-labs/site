@@ -17,7 +17,7 @@ Bei 'static labs entwickeln wir Software. Unsere Projekte sind vielfältig, habe
 
 ### Philosophie
 
-Auch wenn wir keine Details zu den meisten unserer Projekte preisgeben können, gibt es einige Merkmale, die such durch all unsere Arbeit ziehen:
+Auch wenn wir keine Details zu den meisten unserer Projekte preisgeben können, gibt es einige Merkmale, die sich durch all unsere Arbeit ziehen:
 
 * Software ist für uns ein Werkzeug, um Probleme zu lösen. Kein Selbstzweck.
 * Wir haben ein Interesse an neuartigen Ansätzen, die neue Technologien nutzen, um bestehende Probleme besser zu lösen.
