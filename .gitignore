@@ -1,0 +1,2 @@
+# Ignore the built index.html, it can be generated from the index.md
+index.html
