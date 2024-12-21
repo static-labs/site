@@ -6,7 +6,7 @@ author-url: "https://staticlabs.de"
 date: 2024-12-21
 lang: de
 toc-title: Inhaltsverzeichnis
-version: v1.0.0
+version: v1.0.1
 ---
 
 ## Was wir machen
