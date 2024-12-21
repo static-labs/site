@@ -40,7 +40,7 @@ Wir suchen jemanden, der/die uns hilft, eine gute und intuitive UX zu entwickeln
 ### Impressum
 
 <details>
-<summary>Impressum</summary>
+<summary>Volles Impressum</summary>
 <p>
 static labs UG (haftungsbeschränkt)  
 Frankenbergstr. 7  
@@ -49,24 +49,24 @@ Frankenbergstr. 7
 Handelsregister: HRB 268387 B  
 Registergericht: Amtsgericht Charlottenburg Berlin
 
-### Vertreten durch
+#### Vertreten durch
 
 * Ole Mohan Gautam
 * Raphael Boekhoff
 
-### Kontakt
+#### Kontakt
 
 * Telefon: Anfrage an verwaltung@staticlabs.de senden
 * E-Mail: verwaltung@staticlabs.de
 
-### EU-Streitschlichtung
+#### EU-Streitschlichtung
 
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
 <https://ec.europa.eu/consumers/odr/>
 
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
-### Verbraucherstreitbeilegung/Universalschlichtungsstelle
+#### Verbraucherstreitbeilegung/Universalschlichtungsstelle
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer 
 Verbraucherschlichtungsstelle teilzunehmen.
