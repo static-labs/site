@@ -1,6 +1,6 @@
 ---
 title: \'static labs
-subtitle: Softwarenetiwcklung
+subtitle: Softwareentwicklung
 author: Mohan Gautam und Raphael Boekhoff
 author-url: "https://staticlabs.de"
 date: 2024-12-21
