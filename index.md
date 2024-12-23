@@ -1,5 +1,5 @@
 ---
-title: \'static labs
+logo: logo.png
 subtitle: Softwareentwicklung
 author: Mohan Gautam und Raphael Boekhoff
 author-url: "https://staticlabs.de"
