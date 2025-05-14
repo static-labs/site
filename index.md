@@ -28,9 +28,10 @@ Auch wenn wir keine Details zu den meisten unserer Projekte preisgeben können, 
 ## Offene Stellen
 
 <details>
-<summary>Werkstudent:in UI/UX Developer (React) 20€/h</summary>
+<summary>Werkstudent:in Developer (Rust / C++) 20€/h</summary>
 <p>
-Wir suchen jemanden, der/die uns hilft, eine gute und intuitive UX zu entwickeln. Wir müssen einen halbwegs komplexen Ablauf auf verständliche Weise herunterbrechen und für Nutzer intuitiv gestalten.
+
+Wir suchen Unterstützung bei der Entwicklung eines robusten und vielfältigen Rust-Projekts.
 
 [Stellenangebot.pdf](Stellenangebot.pdf)
 </p>
